@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/EU10_Group_28/JAvaProgramingReviews_EU10_00/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EU10_Group_28/OfficeHourPractices_Group_28/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EU10_Group_28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EU10_Group_28/day_22_Multi_Dimensional_Arrays_Extra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EU10_Group_28/day_23_Costum_Method_Void_Method_Parameters_Extra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EU10_Group_28/week_09_05_11_2022_extra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EU10_Group_28/day24CustomMethod_Return_extra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/helloworld/src/practices" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

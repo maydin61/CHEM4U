@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SingleLineMultipleLineComments">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SingleLineMultipleLineComments/SingleLineMultipleLineComments.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EU10_Group_28/.idea/EU10_Group_28.iml" filepath="$PROJECT_DIR$/EU10_Group_28/.idea/EU10_Group_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU10_Group_28/JAvaProgramingReviews_EU10_00/JAvaProgramingReviews_EU10_00.iml" filepath="$PROJECT_DIR$/EU10_Group_28/JAvaProgramingReviews_EU10_00/JAvaProgramingReviews_EU10_00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU10_Group_28/OfficeHourPractices_Group_28/OfficeHourPractices_Group_28.iml" filepath="$PROJECT_DIR$/EU10_Group_28/OfficeHourPractices_Group_28/OfficeHourPractices_Group_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU10_Group_28/day21And 24/String_day_15.iml" filepath="$PROJECT_DIR$/EU10_Group_28/day21And 24/String_day_15.iml" />
+    </modules>
+  </component>
+</project>
